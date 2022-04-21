@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650561246 source:c:\users\macho\programacion\prototipop12p2022\prototipop12p2022\main.cpp
+	<iostream>
+	"usuario.h"
+
+1650579069 c:\users\macho\programacion\prototipop12p2022\prototipop12p2022\include\usuario.h
+
+1650580016 source:c:\users\macho\programacion\prototipop12p2022\prototipop12p2022\src\usuario.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuario.h"
+

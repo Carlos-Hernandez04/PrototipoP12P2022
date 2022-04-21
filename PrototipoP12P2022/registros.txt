@@ -1,0 +1,4 @@
+ximena         12346789       Me1            0              
+maria          12341234       M10            20             
+pedro          1234           A1             01             
+01             pedro          12344321       M15            
